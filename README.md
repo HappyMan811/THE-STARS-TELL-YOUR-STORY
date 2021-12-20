@@ -8,12 +8,12 @@ Awaken, my child
 
 
 I am exploring my artistic side as I learn generative art techniques
+
 I want to use code and poetry to help me express myself artisticlly 
 
 The code is the DNA, The art piece is the flesh and the poetry is the soul
 
-This the rule I have given myself as a guideline 
-While I try to figure out how it all comes together 
+This is a rule I have given myself as a guideline while I try to figure out how it all comes together 
 
 This code was written using the [Processing](https://processing.org/) IDE 
 
