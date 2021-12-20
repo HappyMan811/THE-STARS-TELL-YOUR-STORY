@@ -15,10 +15,11 @@ The code is the DNA, The art piece is the flesh and the poetry is the soul
 This the rule I have given myself as a guideline 
 While I try to figure out how it all comes together 
 
+This code was written using the [Processing](https://processing.org/) IDE 
 
-This code is based on Daniel Shiffman's Perlin noise implementation
+This code is based on [Daniel Shiffman's](https://shiffman.net/) Perlin noise implementation
 
-// Coding Challenge #24: Perlin Noise Flow  Field
-// https://youtu.be/BjoM9oKOAKY
+[Coding Challenge #24: Perlin Noise Flow  Field](https://youtu.be/BjoM9oKOAKY)
+
 
 
