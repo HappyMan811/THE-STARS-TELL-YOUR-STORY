@@ -1,6 +1,6 @@
 # THE-STARS-TELL-YOUR-STORY
 
-Your destiny is written in the stars
+Your destiny written in the stars
 The chapters compiled in the constellations
 You need only look up and align yourself
 To your true potential 
